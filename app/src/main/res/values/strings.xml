@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlayX</string>
+    <string name="config_title">设置</string>
+    <string name="pick_image">选择封面图片</string>
+    <string name="pick_video">选择视频文件</string>
+    <string name="pick_file">选择文件</string>
+    <string name="clear">清除</string>
+    <string name="no_image_selected">未选择图片</string>
+    <string name="no_video_selected">未选择视频</string>
+    <string name="configure_prompt">点击齿轮图标配置封面图片和视频</string>
+    <string name="tap_to_play">点击任意位置播放</string>
+    <string name="file_inaccessible">文件无法访问，请重新配置</string>
+    <string name="no_cover_mode">无封面模式 (直接播放)</string>
+    <string name="loop_mode">循环模式</string>
+    <string name="loop_none">不循环</string>
+    <string name="loop_single">单曲循环</string>
+    <string name="loop_all">列表循环</string>
+</resources>

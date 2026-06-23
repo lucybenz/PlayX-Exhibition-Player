@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /i/androidPlay/gradle/wrapper)",
+      "Bash(mkdir -p /i/androidPlay/app/src/main/java/com/example/playx/data)",
+      "Bash(mkdir -p /i/androidPlay/app/src/main/java/com/example/playx/navigation)",
+      "Bash(mkdir -p /i/androidPlay/app/src/main/java/com/example/playx/ui/screen)",
+      "Bash(mkdir -p /i/androidPlay/app/src/main/java/com/example/playx/ui/viewmodel)"
+    ]
+  }
+}
